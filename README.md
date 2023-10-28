@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsaini830" alt="rahulsaini830" /></a> </p>
-
  <h1 align="left">💫 About Me:</h1>
  
 - 🔭  **I’m currently working on Dev ops and Data science projects.**
