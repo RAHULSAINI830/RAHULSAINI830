@@ -7,7 +7,7 @@
 
  <h1 align="left">💫 About Me:</h1>
  
-- 🔭  **I’m currently working on Dev ops and Data science projects.**
+- 🔭  **I’m currently working on Full stack and Data science projects.**
 
 - 🌱  **I’m currently learning Data Science & AWS.**
 
